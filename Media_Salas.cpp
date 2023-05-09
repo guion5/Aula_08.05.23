@@ -1,4 +1,3 @@
-// Online C++ compiler to run C++ program online
 #include <iostream>
 #include <stdio.h>
 #include <string>
@@ -29,13 +28,24 @@ int main() {
     float media = (sala1 + sala2 + sala3 + sala4 + sala5 + sala6) / 6;
     cout << "A média de alunos é igual a " << media << endl;
 
-    if (sala1 > sala2 & sala1 > sala3 & sala1 > sala4 & sala1 > sala5 & sala1 > sala6);
+    if (sala1 > sala2 & sala1 > sala3 & sala1 > sala4 & sala1 > sala5 & sala1 > sala6)
     cout << "A sala 1 possui o maior número de alunos" << endl;
     
-    if (sala2 > sala1 & sala2 > sala3 & sala2 > sala4 & sala2 > sala5 & sala2 > sala6);
+    else if (sala2 > sala1 & sala2 > sala3 & sala2 > sala4 & sala2 > sala5 & sala2 > sala6)
     cout << "A sala 2 possui o maior número de alunos" << endl;
     
+    else if (sala3 > sala1 & sala3 > sala2 & sala3 > sala4 & sala3 > sala5 & sala3 > sala6)
+    cout << "A sala 3 possui o maior número de alunos" << endl;
     
+    else if (sala4 > sala1 & sala4 > sala2 & sala4 > sala3 & sala4 > sala5 & sala4 > sala6)
+    cout << "A sala 4 possui o maior número de alunos" << endl;
+    
+    else if (sala5 > sala1 & sala5 > sala2 & sala5 > sala3 & sala5 > sala4 & sala5 > sala6)
+    cout << "A sala 5 possui o maior número de alunos" << endl;
+    
+    else 
+    cout << "A sala 6 possui o maior número de alunos" << endl;
+
 
     return 0;
 }
