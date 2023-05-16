@@ -1,4 +1,4 @@
-# Programa Cálculo do triângulo com função
+# Programa Cálculo da Média dos alunos das salas
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
