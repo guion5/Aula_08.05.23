@@ -1,11 +1,13 @@
-# Programa Cálculo do triângulo com função
+# Programa Cálculo da Média do Nº de Alunos
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
 ## Tópicos
 🔹 Descrição do projeto 
+Calculo da média de 6 salas e identificação da sala com maior nº de alunos e da sala com o menor nº de alunos
 
 🔹 Funcionalidades
+if, else if e else
 
 🔹 Distribuição
 
@@ -18,6 +20,7 @@
 🔹 Banco de Dados
 
 🔹 Linguagens, dependências e libs utilizadas
+C++
 
 🔹 Novas Recursos
 
@@ -26,6 +29,7 @@
 🔹 Recursos inseridos 
 
 🔹 Desenvolvedores/Contribuintes
+Guilherme
 
 🔹 Informações Extras
 
@@ -35,7 +39,7 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Calcúlo da média do número de alunos de 6 salas com o valor inserido para cada uma delas pelo usuário. O programa faz o cálculo da média de alunos presentes em todas as 6 salas e ao final ele identifica a sala com o maior número de alunos e a sala com o menor número de alunos.
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
