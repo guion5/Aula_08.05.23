@@ -1,9 +1,10 @@
-# Programa Cálculo da Média dos alunos das salas
+# Programa Cálculo da Média do Nº de Alunos
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
 ## Tópicos
 🔹 Descrição do projeto 
+Projeto para o calculo da media do numero de alunos e quais salas possuem um numero de alunos maior do que a média.
 
 🔹 Funcionalidades
 
@@ -18,6 +19,7 @@
 🔹 Banco de Dados
 
 🔹 Linguagens, dependências e libs utilizadas
+C++
 
 🔹 Novas Recursos
 
@@ -35,7 +37,8 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Cálculo da média dos alunos de 6 salas diferentes com quantidade pré-definida de alunos por sala (inclusos diretamente no código).
+Ao final, ele determina quais salas tem um número de alunos maior que a média geral.
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
